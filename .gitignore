@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+local.settings.json
+
+# Azure Functions artifacts
+bin/
+obj/
+
+# Virtual environment
+env/
+.venv/
+
+# Logs
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
